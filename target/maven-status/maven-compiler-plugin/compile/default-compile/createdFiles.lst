@@ -1,0 +1,7 @@
+com\quest\questdemo\config\authproviders\CustomDBAuthenticationProvider.class
+com\quest\questdemo\config\AppConfig\SecurityWebApplicationInitializer.class
+com\quest\questdemo\config\AppConfig\AppConfig.class
+com\quest\questdemo\test\PasswordHasher.class
+com\quest\questdemo\config\SecurityConfig.class
+com\quest\questdemo\config\AppConfig\AppInitializer.class
+com\quest\questdemo\config\MvcController.class
